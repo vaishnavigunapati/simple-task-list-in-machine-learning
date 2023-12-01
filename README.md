@@ -1,5 +1,5 @@
 # SIMPLE TASK LIST IN MACHINE LEARNING
-## Aim::
+## Aim:
 To create  the task managemnet app tool with the help of machine learning in python.
 ## Description
 Develop a Python **task management app** for adding, removing, listing, prioritizing, and receiving task recommendations based on task descriptions.
