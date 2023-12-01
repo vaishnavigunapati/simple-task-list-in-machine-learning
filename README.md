@@ -18,7 +18,15 @@ Feature extraction is a process in data analysis and machine learning where rele
 * Word Embedding
 ## what is navie bayies?
 Naive Bayes is a simple and probabilistic classification algorithm based on Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions that might be related to the event. Despite its simplicity, Naive Bayes is surprisingly effective and widely used in various applications, especially in natural language processing tasks like text classification and spam filtering.
-
+### formula
+P(A∣B)=p(B/A).P(A)/P(B)
+#### Types of Naive Bayes:
+There are different variants of Naive Bayes, such as:
+- Multinomial Naive Bayes: Used for discrete data, often in text classification problems.
+- Gaussian Naive Bayes: Assumes that the features follow a normal distribution and is suitable for continuous data.
+- Bernoulli Naive Bayes: Designed for binary feature data, where features represent presence or absence.
+​
+ 
 
 
 
