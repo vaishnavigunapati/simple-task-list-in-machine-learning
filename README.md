@@ -7,6 +7,12 @@ Develop a Python **task management app** for adding, removing, listing, prioriti
 Task management is the process of effectively and efficiently tracking, managing, and executing the life cycle of a task or many tasks within a project, from inception to execution. The purpose of task management is to improve the decision-making, communication, efficiency, and effectiveness of a task or project.
 Managing tasks is something that most adults do in their daily lives. Take running a household, for example. Whether you are single or have a family, have to manage  time and energy throughout the day to complete tasks like attending work meetings, cleaning up, buying groceries, and more.
 On a project team, task management requires  to have organizational skills and strategic thinking. You'll also need to know how to use apps and software, as well as manual methods like task lists and charts.
+### Steps to find the task mangement tool:
+- Add the task to the list.
+- Remove the tasks.
+- List tasks
+- Recommend tasks
+- Exit the tasks
 ![alt text](https://images.prismic.io/smarttask/0d6ae82b-c98b-42fa-b36b-d8eb82db7a7e_25+Best+Task+Management+Tools.png?auto=compress,format)
 ## what is feature Extraction?
 Feature extraction is a process in data analysis and machine learning where relevant information is extracted from raw data to create a reduced and more meaningful representation of the data. In various fields, such as computer vision, natural language processing, and signal processing, feature extraction plays a crucial role in improving the efficiency and effectiveness of algorithms.
@@ -25,6 +31,7 @@ There are different variants of Naive Bayes, such as:
 - Multinomial Naive Bayes: Used for discrete data, often in text classification problems.
 - Gaussian Naive Bayes: Assumes that the features follow a normal distribution and is suitable for continuous data.
 - Bernoulli Naive Bayes: Designed for binary feature data, where features represent presence or absence.
+## Setting up the task management tool
 ​
  
 
