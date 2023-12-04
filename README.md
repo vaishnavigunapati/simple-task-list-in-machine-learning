@@ -40,6 +40,33 @@ There are different variants of Naive Bayes, such as:
 - Gaussian Naive Bayes: Assumes that the features follow a normal distribution and is suitable for continuous data.
 - Bernoulli Naive Bayes: Designed for binary feature data, where features represent presence or absence.
 ## Setting up the task management tool
+## step 1:
+Install pip pandas,numpy.
+## step 2:
+Import the data
+## Step 3:
+Apply the model of feature extraction and Navie bayies.
+## Step 4:
+Import pipeline for both
+## Step 5:
+### MAIN MENU
+- add the studens to the list
+- Remove a students by description
+- List students
+- Recommended students
+- Exit the students
+### FINALLY THE TASK MANAGEMENT APP WAS FORMED.
+## Conclusion:
+In conclusion, a task management tool is a powerful ally in the quest for productivity and success, whether on an individual or team level. The right tool can streamline processes, enhance collaboration, and contribute to a more organized and efficient work environment. As technology continues to evolve, task management tools are likely to play an increasingly integral role in optimizing how we manage and accomplish our daily tasks and projects.
+
+
+
+
+
+
+
+
+
 ​
  
 
