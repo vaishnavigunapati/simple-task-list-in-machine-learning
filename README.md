@@ -1,4 +1,12 @@
 # SIMPLE TASK LIST IN MACHINE LEARNING
+## table of contact
+- Aim
+- Description
+- Introduction
+- Models
+- Process
+- Task management app
+- Conclusion
 ## Aim:
 To create  the task managemnet app tool with the help of machine learning in python.
 ## Description
