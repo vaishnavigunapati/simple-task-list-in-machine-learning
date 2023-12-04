@@ -1,5 +1,5 @@
 # SIMPLE TASK LIST IN MACHINE LEARNING
-## table of contact
+## Table of contact
 - Aim
 - Description
 - Introduction
